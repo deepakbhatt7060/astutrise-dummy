@@ -16,7 +16,7 @@ Astutrise.in is a startup company focuses on automating everything i.e every ide
 - ![Contact](images/Contact.png)
 
 ## 🌐 Live Preview
-[Click here to view the project](https://my-portfolio-freezebooking.vercel.app/)
+[Click here to view the project](www.astutrise.in)
 
 ## 🛠️ Tech Stack
 - React
